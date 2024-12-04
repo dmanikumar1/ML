@@ -1,2 +1,0 @@
-# ML
-About Machine Learning
